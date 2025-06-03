@@ -12,3 +12,4 @@ This project is part of a test to evaluate how modifications are reflected in th
 - Do not use for production
 
 ## Author
+Rawan Abdellatif
